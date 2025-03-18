@@ -1,0 +1,2380 @@
+fileFormatVersion: 2
+guid: 3a7df5205cc88534798f1196542e2d09
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Props-Rocks_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 256
+        width: 55
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfb1b89be3a0e042bd41e00870afaf4
+      internalID: 1735168337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 63
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3fba85283554f4aa6050cfca3e3f47
+      internalID: 1809053605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 304
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fde20d3e5e14646a76e6512f617383
+      internalID: -806034647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6b0c585c445a94e9b23629103d4515
+      internalID: 1947393592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 321
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1854a0c9ceb95224ab706b1c82892ef6
+      internalID: 783027139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 321
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce2009e0b96a8943befdb4e431b3fc9
+      internalID: -1534769320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 323
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bf0b241d19bbf47b0698186090aa37
+      internalID: 1879100448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 288
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8487d4eed3673da4e9d73ca65b3438ae
+      internalID: -1368317578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 48
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84da1f4d6c3d1ff4f98dabd5f94cbfa1
+      internalID: 1537416810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 306
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcd8cae9d5c5eb4aa3feb46c7ac2cd6
+      internalID: -1487028155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 305
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aea27ac996e4343b45cbad0c2f0010
+      internalID: 947983539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 288
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34c9a6d9ed0d5648901c79839e079cb
+      internalID: 2057406481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 241
+        width: 44
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d36b500417074d47a7ea2fc08bb28ed
+      internalID: 516753055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 256
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d0d68db7891c7428aa660294e14ce2
+      internalID: -1634042155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 256
+        width: 59
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5727cb88bec393b48a3398673797e2be
+      internalID: -405269951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 176
+        width: 55
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e2193c1f48b8245be229175f47e8df
+      internalID: -1842231687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 63
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c696b401a7fd94da13b7c6c2585e00
+      internalID: -1370577666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 224
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6d22a2451f90d4390b0d382e56750b
+      internalID: 504988793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d38c29dc8c21b4bbdc62fffc8cda64
+      internalID: -1131400420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_19
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 243
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa659292ea7c69145b684b7436f87077
+      internalID: 927734991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 208
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae343adcf54349345a274013604c2674
+      internalID: -731151478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 48
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d3c736c950a2047b82772726e2f093
+      internalID: -477197989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 226
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d84d3308263146409b511c21030a356
+      internalID: 1055008131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 225
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9c65a96ad638d449ae8daf8f8da833
+      internalID: 1769279995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e40588162e6c1444a2c05852b5f94d3
+      internalID: -1964747376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 176
+        width: 44
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da6377203f04c94faea32283d064282
+      internalID: -152018179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_26
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 176
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5a69a0a4ec46e40b9ea5e2cbae7090
+      internalID: 629675624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_27
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 176
+        width: 59
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9dc97df0770fd4f9b1b4bb3c14486c
+      internalID: 1435181567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 80
+        width: 55
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de52da6d41cdd284ba71695674c89dd3
+      internalID: 1107718637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 80
+        width: 40
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c33839accb48e543b4381d734cf8e77
+      internalID: -734525268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_30
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 144
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f03afb474e5cc43be26b776bc15abc
+      internalID: -22021068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 128
+        width: 43
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724c67d03191ccf41b8215bd6e7a914e
+      internalID: -343494717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 144
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059d2fbd73a0249439cbdeb4507fab1b
+      internalID: 1216710093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_33
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 144
+        width: 42
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fa7c56b5605f34c9e1f9ba9bf653e1
+      internalID: 914025199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 80
+        width: 40
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d7749825c41994db32e4b53c1818b5
+      internalID: 1562302316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 128
+        width: 25
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73705bfc753c0b42b08454e1af839d6
+      internalID: -898314256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_36
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 112
+        width: 42
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb0e2587c261004d8a4c088e3c7b2d6
+      internalID: 1479116877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_37
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 65
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb634acd60997124eb7114b0e1c12409
+      internalID: 1311185885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 65
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cf9a64a6b9daa4fa081ed7dcf2b973
+      internalID: -1051477236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 65
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ce63f7ff6a65c49abd0a5e9ac2f8c1
+      internalID: 733133012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_40
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 80
+        width: 52
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546cc8152f6e2554c8f541d916977862
+      internalID: -1557878658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_41
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 65
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af2bc42e65a3e6499fd75cc6700b7f1
+      internalID: -1762357351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_42
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 65
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aff544530dc504d8e53289320b8534
+      internalID: 1528290740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 65
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5c480eb58061e418870a27dd52725a
+      internalID: 402702135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 42
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d265dbaa693db2468aefc1f54b6f4d9
+      internalID: 847702390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_45
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 65
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c482a6e5affd98949a3e6c0606d7bfd4
+      internalID: -1934367621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a303e66cfb45f6341bb974a442e025a2
+      internalID: 1261843420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_47
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 49
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a592c8195e5551245bd82d867d47b563
+      internalID: 1144570097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 33
+        width: 12
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2d6e74df96d994fa45913897c326c9
+      internalID: 917481199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 51
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820daab22073b1446bdd9b32d2737a7f
+      internalID: 1088590473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_50
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 49
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37a1340252cf584abf6573cf03b91fd
+      internalID: -2143740700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 49
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d68b1edbf126bb4b91b55b4c103cbd3
+      internalID: -1652760185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_52
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 49
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2082ba3806ba747ae63c8ce061b970
+      internalID: -93656228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 49
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb369a16b4d34d94c966ceab03b5c253
+      internalID: -141820255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_54
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 49
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3812b1881415be54fb9298dfbf047760
+      internalID: -178327002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_55
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 49
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ce3bc198ed6074fa2f863f26887fde
+      internalID: 652040818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_56
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 49
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9540e0764c88014e86f21f796f10f68
+      internalID: 384857638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_57
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 33
+        width: 12
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c11878a67a4734baa686db6b8b575f
+      internalID: 1574387461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 51
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd33b7b3be42c0488ad9b5a53bb0f0a
+      internalID: -563199789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_59
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 49
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b5412ed2223cd44950e137a2a186cd
+      internalID: -340065181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_60
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 49
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6e02e2b98794d458c39d1f64c31c97
+      internalID: 1744697791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_61
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 49
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79976cf49bc1d704c931c27a6a47ab83
+      internalID: 1574685656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_62
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 49
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d469a9b6fa10a4bb780440bf79eb57
+      internalID: 715646562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 5
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b2e5785e59dcf4995e152c9f5bc2ad
+      internalID: 1429846822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 33
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d64e1bdb243ab4d91dba6090148b50
+      internalID: 968651303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 19
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1fa0903b0056d459fa01341779e197
+      internalID: -2124819537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_66
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 13
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce05d0d5571db148aa21374650c63a5
+      internalID: 1234640023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_67
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 13
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3e60ad415b1214b9432966a2e144d5
+      internalID: -283116446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_68
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 33
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af6f6069fa68254e8159dbdb7d62f7f
+      internalID: -1665118092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_69
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 19
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c37d17980348148a6c383ed7d4b6d7
+      internalID: 2120580552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_70
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 13
+        width: 5
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bc57eb34b5f8349a6f68d208d959f3
+      internalID: 284892601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_71
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 33
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238ea5346d6510346b8faa246af97130
+      internalID: -485208332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_72
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 33
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9b3997e4c3a894980a65f98f542b53
+      internalID: 404628838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_73
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 23
+        width: 27
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d839227157d9940bd49f30b92e2312
+      internalID: 1670882933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e55a7eb39bbd843a52abafffb40941
+      internalID: 1020857318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_75
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 33
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88eb4f4470bd7949b2e41bd414e13a6
+      internalID: -1790550001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_76
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 22
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269cd90b1fe28704593077390816f905
+      internalID: 1012938578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_77
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 13
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68598e60cca88694b8db08102ab23342
+      internalID: 447869823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_78
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 33
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e9e1a13db892542bc22d4c72ca6d39
+      internalID: -1955637595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_79
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 19
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bbde7ee01856f4ab29f5620e9d50b3
+      internalID: -1518637561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_80
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 13
+        width: 6
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a4ef10d3e634a4ca408e4f5e4edf5c
+      internalID: -1925098371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_81
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 13
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ccde262aad05a4fb7a7b6087aba037
+      internalID: 1482812603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_82
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 33
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b843f62f52694fb4f9289888856ac0df
+      internalID: -20058431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_83
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 19
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f39bb2ea78ce24c9068e5e516c1088
+      internalID: 2021634249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_84
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 13
+        width: 5
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bebc9ffefd16cc4f8951b890cbb7793
+      internalID: 1693182629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_85
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 33
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17462151596881346b25c255daac763a
+      internalID: 1197179275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_86
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 33
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f7b787079bc7940a13e97cb99d2bbd
+      internalID: 348602856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_87
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 23
+        width: 27
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb96bace6c9ad04da9f87821e09396e
+      internalID: -57713317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_88
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 33
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9f6618d8e299147948225cf20bcd41
+      internalID: 1612907840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_89
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 19
+        width: 21
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbd8c98eeb89424a93a2f2a8d3bfc4c
+      internalID: 2092029245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_90
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 22
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210c5583d6246634daf3a74a316e997d
+      internalID: 1928918125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_91
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 13
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9e7b7f7f808904a8aaf9003af35b9f
+      internalID: 1039375725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_92
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 13
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f5854229886804d9bc9cfb033eddbd
+      internalID: -981297541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_93
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ce7ad20cb72e24086740bd5792f15c
+      internalID: 1757673468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_94
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 7
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09ba3c1dfa6a404a956ee50087f5655
+      internalID: 930020748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_95
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 7
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ebc407631f0d649b4cfe6237b33e77
+      internalID: -271428572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_96
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 7
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4818ceec95cd74479be31ab04480cf7
+      internalID: -2017588949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_97
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 7
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be78bc7ccb3f1243a3d45a6b85d8e56
+      internalID: -123303952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 7
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7a01777be2e1446be113e8d8050816
+      internalID: 242725219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_99
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 7
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eab10b384a4b2a468fe3789430941c2
+      internalID: -855093003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_100
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 7
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7066c61dfbbecb4a8ca1ad474ec6715
+      internalID: 1249194006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_101
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 7
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb45d5c31556f54d8c45721e8aca0f5
+      internalID: -1907283993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props-Rocks_102
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 7
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1005187a914b982419055f62447a56fd
+      internalID: 1539054037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Props-Rocks_0: 1735168337
+      Props-Rocks_1: 1809053605
+      Props-Rocks_10: 947983539
+      Props-Rocks_100: 1249194006
+      Props-Rocks_101: -1907283993
+      Props-Rocks_102: 1539054037
+      Props-Rocks_11: 2057406481
+      Props-Rocks_12: 516753055
+      Props-Rocks_13: -1634042155
+      Props-Rocks_14: -405269951
+      Props-Rocks_15: -1842231687
+      Props-Rocks_16: -1370577666
+      Props-Rocks_17: 504988793
+      Props-Rocks_18: -1131400420
+      Props-Rocks_19: 927734991
+      Props-Rocks_2: -806034647
+      Props-Rocks_20: -731151478
+      Props-Rocks_21: -477197989
+      Props-Rocks_22: 1055008131
+      Props-Rocks_23: 1769279995
+      Props-Rocks_24: -1964747376
+      Props-Rocks_25: -152018179
+      Props-Rocks_26: 629675624
+      Props-Rocks_27: 1435181567
+      Props-Rocks_28: 1107718637
+      Props-Rocks_29: -734525268
+      Props-Rocks_3: 1947393592
+      Props-Rocks_30: -22021068
+      Props-Rocks_31: -343494717
+      Props-Rocks_32: 1216710093
+      Props-Rocks_33: 914025199
+      Props-Rocks_34: 1562302316
+      Props-Rocks_35: -898314256
+      Props-Rocks_36: 1479116877
+      Props-Rocks_37: 1311185885
+      Props-Rocks_38: -1051477236
+      Props-Rocks_39: 733133012
+      Props-Rocks_4: 783027139
+      Props-Rocks_40: -1557878658
+      Props-Rocks_41: -1762357351
+      Props-Rocks_42: 1528290740
+      Props-Rocks_43: 402702135
+      Props-Rocks_44: 847702390
+      Props-Rocks_45: -1934367621
+      Props-Rocks_46: 1261843420
+      Props-Rocks_47: 1144570097
+      Props-Rocks_48: 917481199
+      Props-Rocks_49: 1088590473
+      Props-Rocks_5: -1534769320
+      Props-Rocks_50: -2143740700
+      Props-Rocks_51: -1652760185
+      Props-Rocks_52: -93656228
+      Props-Rocks_53: -141820255
+      Props-Rocks_54: -178327002
+      Props-Rocks_55: 652040818
+      Props-Rocks_56: 384857638
+      Props-Rocks_57: 1574387461
+      Props-Rocks_58: -563199789
+      Props-Rocks_59: -340065181
+      Props-Rocks_6: 1879100448
+      Props-Rocks_60: 1744697791
+      Props-Rocks_61: 1574685656
+      Props-Rocks_62: 715646562
+      Props-Rocks_63: 1429846822
+      Props-Rocks_64: 968651303
+      Props-Rocks_65: -2124819537
+      Props-Rocks_66: 1234640023
+      Props-Rocks_67: -283116446
+      Props-Rocks_68: -1665118092
+      Props-Rocks_69: 2120580552
+      Props-Rocks_7: -1368317578
+      Props-Rocks_70: 284892601
+      Props-Rocks_71: -485208332
+      Props-Rocks_72: 404628838
+      Props-Rocks_73: 1670882933
+      Props-Rocks_74: 1020857318
+      Props-Rocks_75: -1790550001
+      Props-Rocks_76: 1012938578
+      Props-Rocks_77: 447869823
+      Props-Rocks_78: -1955637595
+      Props-Rocks_79: -1518637561
+      Props-Rocks_8: 1537416810
+      Props-Rocks_80: -1925098371
+      Props-Rocks_81: 1482812603
+      Props-Rocks_82: -20058431
+      Props-Rocks_83: 2021634249
+      Props-Rocks_84: 1693182629
+      Props-Rocks_85: 1197179275
+      Props-Rocks_86: 348602856
+      Props-Rocks_87: -57713317
+      Props-Rocks_88: 1612907840
+      Props-Rocks_89: 2092029245
+      Props-Rocks_9: -1487028155
+      Props-Rocks_90: 1928918125
+      Props-Rocks_91: 1039375725
+      Props-Rocks_92: -981297541
+      Props-Rocks_93: 1757673468
+      Props-Rocks_94: 930020748
+      Props-Rocks_95: -271428572
+      Props-Rocks_96: -2017588949
+      Props-Rocks_97: -123303952
+      Props-Rocks_98: 242725219
+      Props-Rocks_99: -855093003
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
